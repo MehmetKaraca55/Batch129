@@ -1,0 +1,6 @@
+WELCOME==>Satır kelime sayısı: 1==>Satır kelime sayısı: 4
+Online IT Courses & IT Bootcamps==>Satır kelime sayısı: 6==>Satır kelime sayısı: 9
+TechPro Education is a coding bootcamp founded in 2019 by a group of passionate IT field experts with 10 years of teaching experience.==>Satır kelime sayısı: 23==>Satır kelime sayısı: 26
+They all have domain knowledge and are actively working in top Fortune 500 companies.==>Satır kelime sayısı: 14==>Satır kelime sayısı: 17
+As such, they witness industry progression first-hand and update the curricula where needed, making the online IT Bootcamps==>Satır kelime sayısı: 18==>Satır kelime sayısı: 21
+content always relevant.==>Satır kelime sayısı: 3==>Satır kelime sayısı: 6

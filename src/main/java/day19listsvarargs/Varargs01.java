@@ -7,7 +7,7 @@ public class Varargs01 {
     // Note: Bir methodda 1 den fazla Varargs parametre kullanılamaz çünkü ikincisi "Unreachable Code" olur.
 
     // "Varargs", Varargs dışındaki parametrelerle kullanılabilir ama "Varargs" her zaman son parametre olmalıdır.
-    //Yoksa, kendinden sonra gelen parametreyi "Unreachanle Code" yapar.
+    //Yoksa, kendinden sonra gelen parametreyi "Unreachable Code" yapar.
 
 
     public static void main(String[] args) {
